@@ -1,0 +1,2 @@
+# 11_Type_Methods
+Type_methods_used_in_python
